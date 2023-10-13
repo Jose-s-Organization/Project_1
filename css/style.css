@@ -30,6 +30,7 @@ p {
   background-color: #790000;
   padding: 25px;
   margin: 10px;
+  border-radius: 20px;
 }
 
 #listoptions {
@@ -38,6 +39,7 @@ p {
   padding: 25px;
   margin: 10px;
   font-size: 20px;
+  border-radius: 20px;
 
 }
 
