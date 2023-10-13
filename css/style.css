@@ -2,3 +2,11 @@ body {
   background-image: url("images/bacon.png");
   background-color: #E38484 ;
 }
+
+form {
+  border-style: hidden;
+  padding-right: 0px;
+  padding-left: 28px;
+  width: auto;
+  border-radius: 25px;
+}

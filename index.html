@@ -10,36 +10,40 @@
   <body>
     <main id="content">
       <form method="get" action="#null">
-        <h1>BaconOS Community Newsletter</h1>
-        <p>
-          Thank you for showing support! To get access to our community newsletter, keep up with BaconOS updates, or if you are interested in contrbuting to the project, sign up below.
-        </p>
-        <ol>
-          <li id="input-name">
-            <label for="name">Enter your full name</label>
-            <input type="text" name="fullname" id="fullname">
-          </li>
-          <li id="input-email">
-            <label for="email">Enter your email</label>
-            <input type="email" name="email" id="email" pattern="^.+@.+$">
-          </li>
-          <li id="input-news">
-            <input type="checkbox" id="newsletter" name="newsletter">
-            <label for="newsletter">Select if you want our bi-weekly newsletter about the projects progression.</label>
-          </li>
-          <li id="input-update">
-            <input type="checkbox" id="updates" name="updates">
-            <label for="updates">Select if you want alerts about new OS versions.</label>
-          </li>
-          <li id="iput-dev">
-            <input type="checkbox" id="dev" name="dev">
-            <label for="dev">Select if you want to be sent info on how to contribute to the project.</label>
-          </li>
-          <li id="input-submit">
-            <input type="submit" name="submit" id="submit" value="Subscribe">
-          </li>
-          <!--Add the reCaptcha stuff here later-->
-        </ol>
+        <section id="thank_you">
+          <h1>BaconOS Community Newsletter</h1>
+          <p>
+            Thank you for showing support! To get access to our community newsletter, keep up with BaconOS updates, or if you are interested in contrbuting to the project, sign up below.
+          </p>
+        </section>
+        <section id="listoptions">
+          <ol>
+            <li id="input-name">
+              <label for="name">Enter your full name</label>
+              <input type="text" name="fullname" id="fullname">
+            </li>
+            <li id="input-email">
+              <label for="email">Enter your email</label>
+              <input type="email" name="email" id="email" pattern="^.+@.+$">
+            </li>
+            <li id="input-news">
+              <input type="checkbox" id="newsletter" name="newsletter">
+              <label for="newsletter">Select if you want our bi-weekly newsletter about the projects progression.</label>
+            </li>
+            <li id="input-update">
+              <input type="checkbox" id="updates" name="updates">
+              <label for="updates">Select if you want alerts about new OS versions.</label>
+            </li>
+            <li id="iput-dev">
+              <input type="checkbox" id="dev" name="dev">
+              <label for="dev">Select if you want to be sent info on how to contribute to the project.</label>
+            </li>
+            <li id="input-submit">
+              <input type="submit" name="submit" id="submit" value="Subscribe">
+            </li>
+            <!--Add the reCaptcha stuff here later-->
+          </ol>
+        </section>
       </form>
     </main>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
