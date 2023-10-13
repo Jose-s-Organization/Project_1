@@ -4,9 +4,21 @@ body {
 }
 
 form {
-  border-style: hidden;
-  padding-right: 0px;
-  padding-left: 28px;
-  width: auto;
-  border-radius: 25px;
+
+}
+
+h1 {
+
+}
+
+p {
+
+}
+
+#thank_you {
+  background-color: #C42A2A;
+}
+
+#listoptions {
+  background-color: #EACCCC;
 }
