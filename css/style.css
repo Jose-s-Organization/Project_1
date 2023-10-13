@@ -1,5 +1,6 @@
 body {
-  background-image: url("images/bacon.png");
+  background-image: url("../images/bacon.png");
+  background-size: 600px;
   background-color: #E38484 ;
 }
 
@@ -8,15 +9,15 @@ form {
 }
 
 h1 {
-
+  color: #EACCCC;
 }
 
 p {
-
+  color: #EACCCC;
 }
 
 #thank_you {
-  background-color: #C42A2A;
+  background-color: #790000;
 }
 
 #listoptions {
