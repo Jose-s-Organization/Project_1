@@ -65,19 +65,9 @@ label {
 
 @media (min-width: 800px) {
   
-  html {
-    position: absolute;
-    top: 25%;
-    left: 25%;
-    width: 90%;
+  #content {
+    
   }
-
-  form {
-    position: absolute;
-    top: auto;
-    left: auto;
-  }
-}
 
 /**
 #input-name, label {
