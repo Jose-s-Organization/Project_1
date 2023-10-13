@@ -14,15 +14,6 @@ form {
   margin-bottom: auto;
 }
 
-#listoptions {
-  text-align: left;
-  padding: 25px;
-}
-
-#thank_you {
-  padding: 25px;
-}
-
 h1 {
   color: #EACCCC;
   margin: 10px;
@@ -35,10 +26,14 @@ p {
 
 #thank_you {
   background-color: #790000;
+  padding: 25px;
 }
 
 #listoptions {
   background-color: #EACCCC;
+  text-align: left;
+  padding: 25px;
+
 }
 
 #input-name, label {
