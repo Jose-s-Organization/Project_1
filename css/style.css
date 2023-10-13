@@ -57,6 +57,12 @@ p {
 
 }
 
+label {
+  color: #790000;
+  font-family: "Ubuntu";
+}
+
+/**
 #input-name, label {
   color: #790000;
 }
