@@ -18,12 +18,17 @@ h1 {
   color: #EACCCC;
   margin: 10px;
   font-size: 32px;
+  font-family: "Ubuntu";
+  src: url("../font/Ubuntu-Bold.ttf");
+  font-weight: bold;
 }
 
 p {
   color: #EACCCC;
   margin: 10px;
   font-size: 24px;
+  font-family: "Ubuntu";
+  src: url("../font/Ubuntu-Regular.ttf");
 }
 
 #thank_you {
