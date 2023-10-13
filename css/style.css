@@ -17,11 +17,13 @@ form {
 h1 {
   color: #EACCCC;
   margin: 10px;
+  font-size: 32px;
 }
 
 p {
   color: #EACCCC;
   margin: 10px;
+  font-size: 24px;
 }
 
 #thank_you {
@@ -33,6 +35,7 @@ p {
   background-color: #EACCCC;
   text-align: left;
   padding: 25px;
+  font-size: 20px;
 
 }
 
