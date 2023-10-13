@@ -1,3 +1,14 @@
+@font-face {
+  font-family: "Ubuntu";
+  src: url("../font/Ubuntu-Bold.ttf");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "Ubuntu";
+  src: url("../font/Ubuntu-Regular.ttf");
+}
+
 body {
   background-image: url("../images/bacon.png");
   background-size: 600px;
@@ -19,7 +30,6 @@ h1 {
   margin: 10px;
   font-size: 32px;
   font-family: "Ubuntu";
-  src: url("../font/Ubuntu-Bold.ttf");
   font-weight: bold;
 }
 
@@ -28,7 +38,6 @@ p {
   margin: 10px;
   font-size: 24px;
   font-family: "Ubuntu";
-  src: url("../font/Ubuntu-Regular.ttf");
 }
 
 #thank_you {
