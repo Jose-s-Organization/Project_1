@@ -7,7 +7,7 @@ body {
 form {
   display: block;
   text-align: center;
-  width: 400px;
+  width: 90%;
   margin-left: auto;
   margin-right: auto;
   margin-top: 50%;
@@ -16,14 +16,21 @@ form {
 
 #listoptions {
   text-align: left;
+  padding: 25px;
+}
+
+#thank_you {
+  padding: 25px;
 }
 
 h1 {
   color: #EACCCC;
+  margin: 10px;
 }
 
 p {
   color: #EACCCC;
+  margin: 10px;
 }
 
 #thank_you {
