@@ -129,7 +129,7 @@ label {
 
 }
 
-@media (min-width: 1000px) {
+@media (min-width: 800px) {
   #email {
     margin-left: 41px;
   }
