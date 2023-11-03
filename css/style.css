@@ -76,11 +76,10 @@ p {
   font-family: "Ubuntu", verdana, sans-serif;
   margin: 5px;
   padding: 5px;
-  margin-left: 41px;
 }
 
-#newsletter {
-
+#newsletter, #updates, #dev {
+  margin: 5px;
 }
 
 #updates {
@@ -120,6 +119,10 @@ label {
   
   form {
     margin-top: auto;
+  }
+
+  #email {
+    margin-left: 41px;
   }
 }
 
