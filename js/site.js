@@ -3,7 +3,7 @@ jQuery(function($) {
   $('html').removeClass('nojs');
   $('html').addClass('hasjs');
   $("#nbox").on("click", function () {
-    $("newsletter").prop("checked", true);
-    $("nbox").html("<p>&#10004;</p>");
+    $("#newsletter").prop("checked", true);
+    $("#nbox").html("<p>&#10004;</p>");
   });
 });
