@@ -52,6 +52,10 @@ p {
   color: #EACCCC;
   border-radius: 10px;
   border: 0px;
+  font-family: "Ubuntu", verdana, sans-serif;
+  padding: 5px;
+  margin: 5px;
+
 }
 
 #fullname {
@@ -59,6 +63,9 @@ p {
   color: #EACCCC;
   border-radius: 5px;
   border: 0px;
+  font-family: "Ubuntu", verdana, sans-serif;
+  padding: 5px;
+  margin: 5px;
 }
 
 #email {
@@ -66,6 +73,10 @@ p {
   color:#EACCCC;
   border-radius: 5px;
   border: 0px;
+  font-family: "Ubuntu", verdana, sans-serif;
+  margin: 5px;
+  padding: 5px;
+  margin-left: 5px;
 }
 
 #newsletter {
@@ -80,7 +91,7 @@ p {
 
 }
 
-#submit:hover {background-color: #C42A2A;}
+#submit:hover, #fullname:hover, #email:hover {background-color: #C42A2A;}
 
 #listoptions {
   background-color: #EACCCC;
