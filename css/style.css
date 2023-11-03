@@ -29,7 +29,7 @@ h1 {
   color: #EACCCC;
   margin: 10px;
   font-size: 32px;
-  font-family: "Ubuntu";
+  font-family: "Ubuntu", verdana, sans-serif;
   font-weight: bold;
 }
 
@@ -37,7 +37,7 @@ p {
   color: #EACCCC;
   margin: 10px;
   font-size: 24px;
-  font-family: "Ubuntu";
+  font-family: "Ubuntu", verdana, sans-serif;
 }
 
 #thank_you {
@@ -59,7 +59,7 @@ p {
 
 label {
   color: #790000;
-  font-family: "Ubuntu";
+  font-family: "Ubuntu", verdana, sans-serif;
   margin: 10px;
 }
 
