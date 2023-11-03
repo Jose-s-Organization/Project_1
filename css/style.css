@@ -47,6 +47,41 @@ p {
   border-radius: 20px;
 }
 
+#submit {
+  background-color: #790000;
+  color: #EACCCC;
+  border-radius: 10px;
+  border: 0px;
+}
+
+#fullname {
+  background-color: #790000;
+  color: #EACCCC;
+  border-radius: 5px;
+  border: 0px;
+}
+
+#email {
+  background-color: #790000;
+  color:#EACCCC;
+  border-radius: 5px;
+  border: 0px;
+}
+
+#newsletter {
+
+}
+
+#updates {
+
+}
+
+#dev {
+
+}
+
+#submit:hover {background-color: #C42A2A;}
+
 #listoptions {
   background-color: #EACCCC;
   text-align: left;
