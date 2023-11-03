@@ -87,7 +87,7 @@ p {
   margin: 6px;
 }
 
-.new-box {
+#nbox, #ubox, #dbox {
   float: left;
   height: 1em;
   width: 1em;
