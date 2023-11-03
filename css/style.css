@@ -83,7 +83,11 @@ p {
   right: 6900px;
 }
 
-#nbox, #ubox, #dbox {
+#input-news, #input-update, #input-dev {
+  margin: 6px;
+}
+
+.new-box {
   float: left;
   height: 1em;
   width: 1em;
