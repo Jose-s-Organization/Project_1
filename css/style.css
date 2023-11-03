@@ -92,8 +92,7 @@ p {
   height: 1em;
   width: 1em;
   background-color: #790000;
-  color: #EACCCC;
-  border: 0px;
+  color: #E38484;
   border-radius: 4px;
 }
 
@@ -131,6 +130,10 @@ label {
   #email {
     margin-left: 41px;
   }
+}
+
+@media (min-width: 480px) {
+  
 }
 
 /**
