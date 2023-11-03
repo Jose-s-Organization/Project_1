@@ -79,15 +79,17 @@ p {
 }
 
 #newsletter, #updates, #dev {
-  margin: 5px;
+  position: absolute;
+  right: 6900px;
 }
 
-#updates {
-
-}
-
-#dev {
-
+#nbox, #ubox, #dbox {
+  float: left;
+  height: 1em;
+  width: 1em;
+  background-color: #790000;
+  border: 0px;
+  border-radius: 4px;
 }
 
 #submit:hover, #fullname:hover, #email:hover {background-color: #C42A2A;}
